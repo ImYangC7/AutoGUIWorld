@@ -1,6 +1,6 @@
 <h1 align="center">AutoGUIWorld</h1>
 
-<h3 align="center">Image Generators as Visual World Models for GUI-Agent Data Generation</h3>
+<h3 align="center">Image Generators as Visual World Models for GUI Agent</h3>
 
 <p align="center">
   <a href="#getting-started"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&amp;logoColor=white" alt="Python 3.10+" /></a>
