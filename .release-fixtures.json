@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "description": "Reviewed scene-persona fixtures. Only approved email matches are accepted while the source file digest matches; connection and credential checks always apply.",
+  "files": {
+    "autogui/state/environment.py": {
+      "sha256": "18be1fb5ad1fab79b465d42dca39f83ae9bec95f63d9fdf0eb3be0cbcb37b46e",
+      "categories": [
+        "non-synthetic-email"
+      ],
+      "reason": "Preset names and email addresses used to render generated GUI scenes."
+    }
+  }
+}

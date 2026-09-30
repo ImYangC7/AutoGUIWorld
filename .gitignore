@@ -1,0 +1,34 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.runtime/
+*.egg-info/
+build/
+dist/
+
+# Private connection settings and local model adapters
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+local_backend.py
+local_backends/
+
+# Generated data, weights, logs and backups
+data/
+data_legacy/
+logs/
+backup/
+models/
+*.pt
+*.safetensors
+*.tar.gz
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db

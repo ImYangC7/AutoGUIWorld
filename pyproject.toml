@@ -1,0 +1,6 @@
+[tool.ruff]
+target-version = "py310"
+exclude = [".venv", "data", "backup"]
+
+[tool.ruff.lint]
+select = ["E9", "F401", "F811", "F821", "F822", "F823", "F841"]

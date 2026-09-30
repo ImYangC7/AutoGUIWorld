@@ -1,0 +1,4 @@
+-r requirements.txt
+# Task deduplication lazily loads its embedding model during generation.
+sentence-transformers>=2.7
+# Optional OmniParser refinement: install ultralytics separately if needed.
