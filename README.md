@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/YangC777/AGW-35B/blob/main/AutoGUIWorld_Report.pdf"><img src="https://img.shields.io/badge/Technical_Report-PDF-B31B1B?logo=readthedocs&amp;logoColor=white" alt="Technical Report (PDF)" /></a>
+  <a href="#demo"><img src="https://img.shields.io/badge/Demo-Watch_Video-2563EB?logo=youtube&amp;logoColor=white" alt="Watch the demo video" /></a>
   <a href="#getting-started"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&amp;logoColor=white" alt="Python 3.10+" /></a>
   <a href="https://huggingface.co/YangC777/AGW-35B"><img src="https://img.shields.io/badge/Model-AGW--35B-FFD21E?logo=huggingface&amp;logoColor=111111" alt="AGW-35B" /></a>
   <a href="#pipeline"><img src="https://img.shields.io/badge/Pipeline-Seed--Planner--Voyager-2563EB" alt="Seed, Planner, Voyager pipeline" /></a>
@@ -11,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="#overview">Overview</a> · <a href="#pipeline">Pipeline</a> · <a href="#getting-started">Getting Started</a> · <a href="#data-format">Data Format</a> · <a href="https://huggingface.co/YangC777/AGW-35B">Model</a> · <a href="https://huggingface.co/YangC777/AGW-35B/blob/main/AutoGUIWorld_Report.pdf">Technical Report</a></strong>
+  <strong><a href="#demo">Demo</a> · <a href="#overview">Overview</a> · <a href="#pipeline">Pipeline</a> · <a href="#getting-started">Getting Started</a> · <a href="#data-format">Data Format</a> · <a href="https://huggingface.co/YangC777/AGW-35B">Model</a> · <a href="https://huggingface.co/YangC777/AGW-35B/blob/main/AutoGUIWorld_Report.pdf">Technical Report</a></strong>
 </p>
 
 <p align="center">
@@ -28,6 +29,14 @@ The released code supports desktop scenes across Windows, macOS, Ubuntu, and Chr
 
 > [!NOTE]
 > **Scope.** AutoGUIWorld produces training trajectories in visual state space. It does not execute them in a real desktop environment or independently verify task completion.
+
+## Demo
+
+Watch the full AutoGUIWorld demo (2 min 6 sec).
+
+https://github.com/user-attachments/assets/abadb96f-b00e-4cc9-a4e0-58950f71005f
+
+[Watch or download the 1080p video](https://github.com/ImYangC7/AutoGUIWorld/raw/refs/heads/main/assets/demo/AutoGUIWorld_Demo.mp4).
 
 ## Overview
 
