@@ -32,7 +32,7 @@ The released code supports desktop scenes across Windows, macOS, Ubuntu, and Chr
 
 ## Demo
 
-https://github.com/user-attachments/assets/bd45774f-67b9-4514-b397-f3d35504c057
+https://github.com/user-attachments/assets/abadb96f-b00e-4cc9-a4e0-58950f71005f
 
 [Watch or download the 1080p video](https://github.com/ImYangC7/AutoGUIWorld/raw/refs/heads/main/assets/demo/AutoGUIWorld_Demo.mp4).
 
