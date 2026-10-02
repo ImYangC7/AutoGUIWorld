@@ -3,11 +3,10 @@
 <h3 align="center">Image Generators as Visual World Models for GUI Agent</h3>
 
 <p align="center">
+  <a href="https://huggingface.co/papers/2610.01215"><img src="https://img.shields.io/badge/Daily_Paper-Hugging_Face-FFD21E?logo=huggingface&amp;logoColor=111111" alt="Daily Paper on Hugging Face" /></a>
   <a href="https://huggingface.co/YangC777/AGW-35B/blob/main/AutoGUIWorld_Report.pdf"><img src="https://img.shields.io/badge/Technical_Report-PDF-B31B1B?logo=readthedocs&amp;logoColor=white" alt="Technical Report (PDF)" /></a>
   <a href="#demo"><img src="https://img.shields.io/badge/Demo-Watch_Video-2563EB?logo=youtube&amp;logoColor=white" alt="Watch the demo video" /></a>
-  <a href="#getting-started"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&amp;logoColor=white" alt="Python 3.10+" /></a>
   <a href="https://huggingface.co/YangC777/AGW-35B"><img src="https://img.shields.io/badge/Model-AGW--35B-FFD21E?logo=huggingface&amp;logoColor=111111" alt="AGW-35B" /></a>
-  <a href="#pipeline"><img src="https://img.shields.io/badge/Pipeline-Seed--Planner--Voyager-2563EB" alt="Seed, Planner, Voyager pipeline" /></a>
   <a href="#gui-world-sampling"><img src="https://img.shields.io/badge/Platforms-Desktop%20%7C%20Mobile-0F766E" alt="Desktop and mobile" /></a>
 </p>
 
