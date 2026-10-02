@@ -348,12 +348,17 @@ Scores are percentages; gains are percentage points. The model card describes th
 
 ## Citation
 
+[AutoGUIWorld on arXiv](https://arxiv.org/abs/2610.01215)
+
 ```bibtex
-@techreport{hunyuan2026autoguiworld,
-  title       = {AutoGUIWorld: Image Generators as Visual World Models for GUI Agent},
-  author      = {{Hunyuan AI Data Team}},
-  institution = {Tencent Hunyuan},
-  year        = {2026}
+@misc{yang2026autoguiworldimagegeneratorsvisual,
+      title={AutoGUIWorld: Image Generators as Visual World Models for GUI Agent},
+      author={Cheng Yang and Yifan Wu and Yutao Huang and Zhaohua Zhang and Beiduo Chen and Muxi Chen and Chenchen Zhao and Hexuan Deng and Haolin Yang and Geyuan Zhu and Sa Zhu and Jianhuan Zhuo and Qiuyong Xiao and Jianhao Ruan and Yiran Peng and Jiayi Zhang and Tian Ye and Xinlei Yu and Tianwen Jiang and Jihong Zhang and Yuyu Luo},
+      year={2026},
+      eprint={2610.01215},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.01215},
 }
 ```
 
